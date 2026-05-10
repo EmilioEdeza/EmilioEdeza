@@ -23,6 +23,9 @@ Welcome to my GitHub! I'm passionate about crafting beautiful, functional web ex
 - 📧 Email: emilioedeza@hotmail.com
 
 ---
+# Personal Information
+
+
 
 Thanks for stopping by! Feel free to explore my repositories or reach out if you'd like to collaborate.
 
